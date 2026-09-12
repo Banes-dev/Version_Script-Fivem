@@ -1,3 +1,4 @@
 {
-    "banes_chat": {"version" : "1.0.0"}
+    "banes_chat": {"version" : "1.0.0"},
+    "banes_creator": {"version" : "1.0.0"}
 }
